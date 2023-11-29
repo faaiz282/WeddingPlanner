@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Wedding Planner</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_vendor">Vendor</string>
+    <string name="menu_profile">Account</string>
+    <string name="menu_booking">Booking</string>
+    <string name="required_money">Rp %d,00</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="next_symbol"> &amp;gt </string>
+    <string name="previus_symbol">  &amp;lt </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d Pts</string>
+    <string name="booking">Booking</string>
+    <string name="call">Hubungi Vendor</string>
+    <string name="total_order">Total pesanan : %d Pts</string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Dicoding Reward</string>
+    <string name="share_message">Hey, I have redeem %1$d rewards in Dicoding with total %2$d Points. Do you want too?</string>
+</resources>
