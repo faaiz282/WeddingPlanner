@@ -22,3 +22,24 @@ Untuk menjalankan aplikasi di lingkungan pengembangan Anda, ikuti langkah-langka
 2. **Clone Repository:**
    ```bash
    git clone https://github.com/faaiz282/WeddingPlanner.git
+   ```
+
+3. **Buka Proyek:**
+   - Buka Android Studio
+   - Pilih "Open an existing project"
+   - Arahkan ke direktori proyek yang baru saja Anda clone
+
+4. **Build dan Run:**
+   - Tunggu hingga Android Studio selesai mengindeks proyek
+   - Klik tombol "Run" untuk mengompilasi dan menjalankan aplikasi pada emulator atau perangkat fisik Android Anda
+
+## Kontribusi
+
+Kami sangat menyambut kontribusi dari pengembang di luar sana untuk meningkatkan aplikasi ini. Jika Anda ingin berkontribusi, silakan ikuti langkah-langkah berikut:
+
+1. Buka *Issue* untuk membahas perubahan yang ingin Anda lakukan.
+2. Fork repository ini.
+3. Buat branch baru (`git checkout -b fitur-baru`).
+4. Commit perubahan Anda (`git commit -m 'Menambahkan fitur baru'`).
+5. Push ke branch yang Anda buat (`git push origin fitur-baru`).
+6. Buat *Pull Request*.
